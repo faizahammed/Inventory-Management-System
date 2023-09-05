@@ -1,7 +1,7 @@
 # Inventory-Management-System
 
 ## Flowchart
-Flowchat for inventory software.PNG
+[Flowchat for inventory software.PNG](https://github.com/faizahammed/Inventory-Management-System/blob/main/Flowchat%20for%20inventory%20software.PNG)
 
 ## Master Data Management
 Master data serves as the source of common data and often includes application-specific metadata and corporate dimensional data (that directly participates in transactions like a customer ID or department ID), although the data type can vary depending on the organization and its needs. As a part of master data management, you can entry modify data accordingly business rules. As a part of this system you can mange such as 
